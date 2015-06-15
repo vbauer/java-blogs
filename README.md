@@ -11,7 +11,9 @@
 
 * Adam Bien http://www.adam-bien.com/roller/abien/
 * Alexander J. Turner http://nerds-central.blogspot.com
+* Allan Kelly http://allankelly.blogspot.co.uk
 * Antonio Goncalves http://antoniogoncalves.org
+* Anton Arhipov http://arhipov.blogspot.com
 * Arun Gupta http://blog.arungupta.me
 * Bear Giles http://invariantproperties.com
 * Ben McCann http://www.benmccann.com
@@ -21,7 +23,10 @@
 * Dustin Marx http://marxsoftware.blogspot.com
 * Iris Shoor http://blog.takipi.com
 * JOOQ http://blog.jooq.org
+* James Bloom http://blog.jamesdbloom.com
 * Jakob Jenkov http://jenkov.com
+* Java Roots http://www.javaroots.com
+* Jeff Atwood http://blog.codinghorror.com
 * Jonathan Giles http://jonathangiles.net/blog/
 * Jos Dirksen http://www.smartjava.org
 * Juri Strumpflohner http://juristr.com/blog/
@@ -38,11 +43,15 @@
 * Peter Verhas https://javax0.wordpress.com
 * Petri Kainulainen http://www.petrikainulainen.net/blog/
 * Phil Whelan http://www.bigfastblog.com
+* Pierre-Hugues Charbonneau http://javaeesupportpatterns.blogspot.com
+* RedStack https://redstack.wordpress.com
 * Reza Rahman https://blogs.oracle.com/reza/
 * Richard Warburton http://insightfullogic.com/blog/
 * Stephen Chin http://steveonjava.com
 * Steve Blank http://steveblank.com
+* Stuart Marks https://stuartmarks.wordpress.com
 * Vlad Mihalcea http://vladmihalcea.com
+* Wayne Beaton https://waynebeaton.wordpress.com
 * Yifan Peng http://blog.pengyifan.com
 
 
