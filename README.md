@@ -54,7 +54,7 @@ See also: https://github.com/vbauer/android-blogs
 * James Bloom http://blog.jamesdbloom.com
 * Jakob Jenkov http://jenkov.com
 * Java Roots http://www.javaroots.com
-* Javarevisited http://javarevisited.blogspot.ru/
+* Javarevisited https://javarevisited.blogspot.com
 * Jeff Atwood http://blog.codinghorror.com
 * Jonathan Giles http://jonathangiles.net/blog/
 * Jos Dirksen http://www.smartjava.org
