@@ -73,6 +73,7 @@ See also: https://github.com/vbauer/android-blogs
 * Petri Kainulainen http://www.petrikainulainen.net/blog/
 * Phil Whelan http://www.bigfastblog.com
 * Pierre-Hugues Charbonneau http://javaeesupportpatterns.blogspot.com
+* Piotr Wittchen http://blog.wittchen.biz.pl
 * Rafal Borowiec http://blog.codeleak.pl
 * RedStack https://redstack.wordpress.com
 * Reza Rahman https://blogs.oracle.com/reza/
