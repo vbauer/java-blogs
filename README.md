@@ -85,6 +85,7 @@ See also: https://github.com/vbauer/android-blogs
 * Stuart Marks https://stuartmarks.wordpress.com
 * Thorben Janssen http://www.thoughts-on-java.org/blog/
 * Vlad Mihalcea http://vladmihalcea.com
+* Vojtech Ruzicka http://www.vojtechruzicka.com
 * Wayne Beaton https://waynebeaton.wordpress.com
 * Yifan Peng http://blog.pengyifan.com
 
