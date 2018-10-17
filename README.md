@@ -49,6 +49,7 @@ See also: https://github.com/vbauer/android-blogs
 * Fabian Kessler http://www.flowstopper.org
 * Gil Zilberfeld http://www.gilzilberfeld.com/blog-2
 * Gualtiero Testa https://gualtierotesta.wordpress.com
+* Igor Stojanovski https://igorski.co/
 * Iris Shoor http://blog.takipi.com
 * JOOQ http://blog.jooq.org
 * James Bloom http://blog.jamesdbloom.com
