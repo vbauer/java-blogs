@@ -5,7 +5,7 @@ See also: https://github.com/vbauer/android-blogs
 
 ### Groups & Companies
 
-* CodeGears http://www.codergears.com/Blog/?cat=2
+* CodeGears http://www.codergears.com/Blog/
 * Code Affine http://www.codeaffine.com/blog/
 * Codingpedia http://www.codingpedia.org
 * Developers Corner http://sgdev-blog.blogspot.com
